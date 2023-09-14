@@ -1,13 +1,13 @@
 # Retail-Analytics-Walmart-Data-Sales
 
-Row ID	- A unique identifier assigned to each row of data.
-Order ID	- The unique identifier assigned to each sales order.
-Order date	- The date on which the sales order was placed.
-Ship date	- The date on which the order was shipped.
-Ship Mode	- The mode of shipment used for the order.
-Customer ID	- The unique identifier assigned to each customer.
-Customer Name	- The name of the customer who placed the order.
-Segment	- The market segment to which the customer belongs.
+Row ID	- A unique identifier assigned to each row of data.  
+Order ID	- The unique identifier assigned to each sales order.  
+Order date	- The date on which the sales order was placed.  
+Ship date	- The date on which the order was shipped.  
+Ship Mode	- The mode of shipment used for the order.  
+Customer ID	- The unique identifier assigned to each customer.  
+Customer Name	- The name of the customer who placed the order.  
+Segment	- The market segment to which the customer belongs.  
 City	- The city where the order was shipped.
 State	- The state where the order was shipped.
 Country	- The country where the order was shipped.
