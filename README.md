@@ -27,3 +27,6 @@ Order Priority	- The priority assigned to the order.
 
   **EXCEL DASHBOARD**
 ![image](https://github.com/Shouvik078/Retail-Analytics-Walmart-Data-Sales/assets/106507099/9422da18-7127-4ac9-b460-a9fdcecfce4e)
+  **POWER BI DASHBOARD**
+![Screenshot 2023-11-08 110303](https://github.com/Shouvik078/Retail-Analytics-Walmart-Data/assets/106507099/e4563520-7dd0-4b8c-b355-2665a03eaee8)
+
